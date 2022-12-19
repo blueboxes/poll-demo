@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "StorageUri": "https://yourstorage.table.core.windows.net/",
+    "AzureSignalRConnectionString": "yourconnectionstring",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "http://127.0.0.1:5173",
+    "CORSCredentials": true
+  }
+}
